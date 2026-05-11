@@ -26,6 +26,10 @@ focus:
 currently_learning:
   - Python
   - C++
+  - C#
+  - Java
+  - JavaScript / TypeScript
+  - Vue.js
   - Git & GitHub
   - Linux tools
 experience_level: Beginner -> Intermediate
@@ -40,7 +44,7 @@ goal: Become a better developer every day
 
 ## 💻 Lenguajes
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,vue,bash" />
 
 ## 🛠️ Herramientas
 
@@ -108,13 +112,7 @@ goal: Become a better developer every day
 
 # 📂 Proyectos destacados
 
-| Proyecto      | Descripción       | Tecnologías |
-| ------------- | ----------------- | ----------- |
-| 🔹 Proyecto 1 | Descripción breve | Python      |
-| 🔹 Proyecto 2 | Descripción breve | C++         |
-| 🔹 Proyecto 3 | Descripción breve | Linux       |
 
----
 
 # 🎯 Objetivos 2026
 
